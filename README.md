@@ -55,6 +55,12 @@ of Big Mart. In our work, we propose a model using Xgboost algorithm and
 compare it with other machine learning techniques like Linear regression, Ridge
 regression , Decision tree etc.
 
+
+
+ ## UI/UX
+ ### Screenshot-1![enter image description here](https://raw.githubusercontent.com/ritik-sys/Big-mart-sales-prediction/main/1.jpeg)
+ ### Screenshot-2![enter image description here](https://raw.githubusercontent.com/ritik-sys/Big-mart-sales-prediction/main/2.jpeg)
+ ### Screenshot-3![enter image description here](https://raw.githubusercontent.com/ritik-sys/Big-mart-sales-prediction/main/3.jpeg)
 ## Tech Stack and Tools 💻
 
  - [Python]
