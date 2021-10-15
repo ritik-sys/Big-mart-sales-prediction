@@ -1,7 +1,7 @@
 # Big-mart-sales-prediction 💰💰
 
 
-### Project Link ->  https://sars-covid19-xray-detection.herokuapp.com 🌐🌐
+### Project Link ->  https://big-mart-sales-prediction1.herokuapp.com/ 🌐🌐
 
 ![enter image description here](https://miro.medium.com/max/624/1*LXEEUY5Vf3tTCMFC41llJQ.png)
 
@@ -9,7 +9,7 @@ This Repository is on the BigMart’s sale prediction proposed by Analytics Vidh
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://sars-covid19-xray-detection.herokuapp.com/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://sars-covid19-xray-detection.herokuapp.com/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://foodeazy.herokuapp.com/)&nbsp;[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://sars-covid19-xray-detection.herokuapp.com/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
 
-**Project Link** - ***https://sars-covid19-xray-detection.herokuapp.com***
+**Project Link** - ***https://big-mart-sales-prediction1.herokuapp.com/***
 
 
 
